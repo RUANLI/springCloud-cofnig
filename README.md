@@ -1,2 +1,4 @@
-# springCloud-cofnig
-springCloud-cofnig-demo
+# SpringCloud-config
+ 这是一个关于springCloud-config 的练习
+
+## 
